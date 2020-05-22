@@ -9,3 +9,12 @@
 * [Final Document](https://drive.google.com/open?id=1HIv4SvH_bJeabgqxfFzgveN0WNlxykZS)
 
 ![](/images/capstone.png)
+
+# [The Ultimate Baseball Road Trip](https://www.kaggle.com/bassballfever/ultimate-baseball-road-trip)
+
+* Used Simulated Annealing to find the shortest distance required to visit every MLB ballpark.
+* Created a JSON file to store the distance matrix and information about each ballpark.
+* Produced a map showing the route as well as an ordered list of ballparks.
+* Used in a [series of articles](https://theaosn.com/the-ultimate-baseball-road-trip/) as the basis for a potential 2020 road trip.
+
+![](/images/roadtrip.png)
