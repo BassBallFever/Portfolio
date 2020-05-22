@@ -1,3 +1,4 @@
+
 # [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](https://www.kaggle.com/bassballfever/capstone)
 
 * Created a tool that maximizes the expected runs scored by setting the batting order for a starting MLB lineup.
@@ -7,3 +8,4 @@
 * Used Tableau and Photoshop to produce figures.
 * [Final Document](https://drive.google.com/open?id=1HIv4SvH_bJeabgqxfFzgveN0WNlxykZS)
 
+![](/images/capstone.png)
