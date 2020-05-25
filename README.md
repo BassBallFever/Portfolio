@@ -10,6 +10,16 @@
 
 ![](/images/capstone.png)
 
+# [Fargo Health Group Forecast](https://github.com/BassBallFever/fargo)
+
+* Transformed data from multiple sources into a consistent format.
+* Imputed missing values using weighted averages.
+* Forecasted the next 12 months.
+* Created a narrated [PowerPoint](https://drive.google.com/open?id=1X7uiR9VIeruS1ajpb3UKMPOQ7J9BVjvR) presentation to demonstrate findings.
+* [Final Document](https://github.com/BassBallFever/fargo/blob/master/FargoHealthProposal.docx)
+
+![](/images/holtwinters.png)
+
 # [The Ultimate Baseball Road Trip](https://www.kaggle.com/bassballfever/ultimate-baseball-road-trip)
 
 * Used Simulated Annealing to find the shortest distance required to visit every MLB ballpark.
