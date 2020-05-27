@@ -45,3 +45,4 @@
 * Performed logistic regression on the data.
 * Compared model optimized for accuracy to model optimized for profits.
 * Created [R Markdown file](https://github.com/BassBallFever/loan-classification/blob/master/loans.Rmd) to document findings.
+* [Final Document](https://github.com/BassBallFever/loan-classification/blob/master/LoanClassification.docx)
