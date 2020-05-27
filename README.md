@@ -1,6 +1,8 @@
-# Portfolio
+# David Weller
+![](/images/headshot.jpg)
 
 ## [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](https://www.kaggle.com/bassballfever/capstone)
+### Optimization, Simulation, Model Selection, Model Tuning
 
 * Created a tool that maximizes the expected runs scored by setting the batting order for a starting MLB lineup.
 * Compared Simulated Annealing and a Genetic Algorithm and concluded that the Genetic Algorithm performed best in this situation.
@@ -12,6 +14,7 @@
 ![](/images/capstone.png)
 
 ## [Fargo Health Group Forecast](https://github.com/BassBallFever/fargo)
+### Data Wrangling, Forecasting, Model Selection
 
 * Transformed data from multiple sources into a consistent format.
 * Imputed missing values using weighted averages.
@@ -22,6 +25,7 @@
 ![](/images/holtwinters.png)
 
 ## [The Ultimate Baseball Road Trip](https://www.kaggle.com/bassballfever/ultimate-baseball-road-trip)
+### Optimization
 
 * Used Simulated Annealing to find the shortest distance required to visit every MLB ballpark.
 * Created a JSON file to store the distance matrix and information about each ballpark.
