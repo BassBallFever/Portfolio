@@ -14,7 +14,7 @@
 * [Final Document](https://drive.google.com/open?id=1HIv4SvH_bJeabgqxfFzgveN0WNlxykZS)
 
 ## [Fargo Health Group Forecast](https://github.com/BassBallFever/fargo)
-### Data Wrangling, Forecasting, Model Selection, R
+### Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
 
 ![](/images/holtwinters.png)
 
