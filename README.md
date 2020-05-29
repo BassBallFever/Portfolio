@@ -80,7 +80,7 @@ Click on a project to go to its summary.
 ## Star Wars Network
 ### Network Analysis, Network Modelling, Feature Engineering, R (Libraries: igraph, statnet, ergm, intergraph, jsonlite)
 
-![](/images/starwars.png)
+![](/images/starwarsNetworkUnlabled.png)
 
 * Converted JSON file to csv format.
 * Performed Centrality Analysis.
