@@ -59,3 +59,13 @@
 * Selected dyadic predictor for the model.
 * Examined dyad dependency.
 * Analyzed model fit.
+
+## [Helping Forum Moderators](https://github.com/BassBallFever/duplicate-accounts/blob/master/README.md)
+### Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)
+
+![](/images/closeup.png)
+
+* Scraped data from online forum.
+* Stripped meta data from the forum posts.
+* Examined corpus.
+* Created hierarchical clustering dendrogram.
