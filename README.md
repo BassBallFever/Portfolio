@@ -9,6 +9,9 @@ I enjoy playing baseball and playing the bass which gives rise to my username of
 
 That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 
+# List of Projects
+Click on a project to go to its summary.
+
 - [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](#the-development-of-an-algorithm-to-create-a-batting-lineup-for-a-major-league-team)
     + Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
 - [Fargo Health Group Forecast](#fargo-health-group-forecast)
@@ -21,6 +24,8 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
     + Network Analysis, Network Modelling, Feature Engineering, R (Libraries: igraph, statnet, ergm, intergraph, jsonlite)
 - [Helping Forum Moderators](#helping-forum-moderators)
     + Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)
+    
+# Project Summaries
 
 ## The Development of an Algorithm to Create a Batting Lineup for a Major League Team
 ### Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
