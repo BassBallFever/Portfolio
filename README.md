@@ -9,7 +9,23 @@ I enjoy playing baseball and playing the bass which gives rise to my username of
 
 That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 
-## [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](https://www.kaggle.com/bassballfever/capstone)
+- [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](#the-development-of-an-algorithm-to-create-a-batting-lineup-for-a-major-league-team)
+    + [Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau](#optimization--simulation--model-selection--model-tuning--python--libraries--matplotlib--numpy--pandas---tableau)
+- [Fargo Health Group Forecast](#fargo-health-group-forecast)
+    + [Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R](#data-wrangling--time-series-analysis--forecasting--model-selection--r)
+- [The Ultimate Baseball Road Trip](#the-ultimate-baseball-road-trip)
+    + [Optimization, Python (Libraries: matplotlib, numpy, json)](#optimization--python--libraries--matplotlib--numpy--json-)
+- [Loan Classification](#loan-classification)
+    + [Classification, EDA, Data Wrangling, Feature Selection, Logistic Regressioin, R (Libraries: dplyr, ggformula, mice, HH, leaps), R Markdown](#classification--eda--data-wrangling--feature-selection--logistic-regressioin--r--libraries--dplyr--ggformula--mice--hh--leaps---r-markdown)
+- [Star Wars Network](#star-wars-network)
+    + [Network Analysis, Network Modelling, Feature Engineering, R (Libraries: igraph, statnet, ergm, intergraph, jsonlite)](#network-analysis--network-modelling--feature-engineering--r--libraries--igraph--statnet--ergm--intergraph--jsonlite-)
+- [Helping Forum Moderators](#helping-forum-moderators)
+    + [Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)](#hierarchical-clustering--data-scraping--data-wrangling---r--libraries--tm--wordcloud-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+## The Development of an Algorithm to Create a Batting Lineup for a Major League Team
 ### Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
 
 ![](/images/capstone.png)
@@ -20,8 +36,9 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 * Optimized metaheuristics of the Genetic Algorithm to produce the best results.
 * Used Tableau and Photoshop to produce figures.
 * [Final Document](https://drive.google.com/open?id=1HIv4SvH_bJeabgqxfFzgveN0WNlxykZS)
+* [Kaggle Notebook](https://www.kaggle.com/bassballfever/capstone)
 
-## [Fargo Health Group Forecast](https://github.com/BassBallFever/fargo)
+## Fargo Health Group Forecast
 ### Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
 
 ![](/images/holtwinters.png)
@@ -31,9 +48,10 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 * Forecasted the next 12 months.
 * Created a narrated [PowerPoint](https://drive.google.com/open?id=1X7uiR9VIeruS1ajpb3UKMPOQ7J9BVjvR) presentation to demonstrate findings.
 * [Final Document](https://github.com/BassBallFever/fargo/blob/master/FargoHealthProposal.docx)
+* [Github Repo](https://github.com/BassBallFever/fargo)
 
 
-## [The Ultimate Baseball Road Trip](https://www.kaggle.com/bassballfever/ultimate-baseball-road-trip)
+## The Ultimate Baseball Road Trip
 ### Optimization, Python (Libraries: matplotlib, numpy, json)
 
 ![](/images/roadtrip.png)
@@ -42,8 +60,9 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 * Created a JSON file to store the distance matrix and information about each ballpark.
 * Produced a map showing the route as well as an ordered list of ballparks.
 * Used in a [series of articles](https://theaosn.com/the-ultimate-baseball-road-trip/) as the basis for a potential 2020 road trip.
+* [Kaggle Notebook](https://www.kaggle.com/bassballfever/ultimate-baseball-road-trip)
 
-## [Loan Classification](https://github.com/BassBallFever/loan-classification)
+## Loan Classification
 ### Classification, EDA, Data Wrangling, Feature Selection, Logistic Regressioin, R (Libraries: dplyr, ggformula, mice, HH, leaps), R Markdown
 
 ![](/images/loan1.jpg)
@@ -53,9 +72,10 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 * Performed logistic regression on the data.
 * Compared model optimized for accuracy to model optimized for profits.
 * Created [R Markdown file](https://github.com/BassBallFever/loan-classification/blob/master/loans.Rmd) to document findings.
+* [Github Repo](https://github.com/BassBallFever/loan-classification)
 * [Final Document](https://github.com/BassBallFever/loan-classification/blob/master/LoanClassification.docx)
 
-## [Star Wars Network](https://github.com/BassBallFever/starwars)
+## Star Wars Network
 ### Network Analysis, Network Modelling, Feature Engineering, R (Libraries: igraph, statnet, ergm, intergraph, jsonlite)
 
 ![](/images/starwars.png)
@@ -67,8 +87,9 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 * Selected dyadic predictor for the model.
 * Examined dyad dependency.
 * Analyzed model fit.
+* [Github Repo](https://github.com/BassBallFever/starwars)
 
-## [Helping Forum Moderators](https://github.com/BassBallFever/duplicate-accounts/blob/master/README.md)
+## Helping Forum Moderators
 ### Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)
 
 ![](/images/closeup.png)
@@ -77,3 +98,4 @@ That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 * Stripped meta data from the forum posts.
 * Examined corpus.
 * Created hierarchical clustering dendrogram.
+* [Github Repo](https://github.com/BassBallFever/duplicate-accounts/blob/master/README.md)
