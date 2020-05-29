@@ -50,7 +50,7 @@ Click on a project to go to its summary.
 * Forecasted the next 12 months.
 * Created a narrated [PowerPoint](https://drive.google.com/open?id=1X7uiR9VIeruS1ajpb3UKMPOQ7J9BVjvR) presentation to demonstrate findings.
 * [Final Document](https://github.com/BassBallFever/fargo/blob/master/FargoHealthProposal.docx)
-* [Github Repo](https://github.com/BassBallFever/fargo)
+* [GitHub Repo](https://github.com/BassBallFever/fargo)
 
 
 ## The Ultimate Baseball Road Trip
@@ -74,7 +74,7 @@ Click on a project to go to its summary.
 * Performed logistic regression on the data.
 * Compared model optimized for accuracy to model optimized for profits.
 * Created [R Markdown file](https://github.com/BassBallFever/loan-classification/blob/master/loans.Rmd) to document findings.
-* [Github Repo](https://github.com/BassBallFever/loan-classification)
+* [GitHub Repo](https://github.com/BassBallFever/loan-classification)
 * [Final Document](https://github.com/BassBallFever/loan-classification/blob/master/LoanClassification.docx)
 
 ## Star Wars Network
@@ -89,7 +89,7 @@ Click on a project to go to its summary.
 * Selected dyadic predictor for the model.
 * Examined dyad dependency.
 * Analyzed model fit.
-* [Github Repo](https://github.com/BassBallFever/starwars)
+* [GitHub Repo](https://github.com/BassBallFever/starwars)
 
 ## Helping Forum Moderators
 ### Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)
@@ -100,4 +100,4 @@ Click on a project to go to its summary.
 * Stripped meta data from the forum posts.
 * Examined corpus.
 * Created hierarchical clustering dendrogram.
-* [Github Repo](https://github.com/BassBallFever/duplicate-accounts/blob/master/README.md)
+* [GitHub Repo](https://github.com/BassBallFever/duplicate-accounts/blob/master/README.md)
