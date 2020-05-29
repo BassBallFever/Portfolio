@@ -7,7 +7,7 @@ Hi! My name is Dave. I graduated with a Master of Science in Data Science in May
 
 I enjoy playing baseball and playing the bass which gives rise to my username of BassBallFever. My favorite place to be is the ballpark, any ballpark. I will watch every level of baseball. 
 
-That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
+That big ball of fluff is Monday, our goldendoodle that was born in January 2020.
 
 # List of Projects
 Click on a project to go to its summary.
