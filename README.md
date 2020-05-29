@@ -10,20 +10,17 @@ I enjoy playing baseball and playing the bass which gives rise to my username of
 That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 
 - [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](#the-development-of-an-algorithm-to-create-a-batting-lineup-for-a-major-league-team)
-    + [Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau](#optimization--simulation--model-selection--model-tuning--python--libraries--matplotlib--numpy--pandas---tableau)
+    + Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
 - [Fargo Health Group Forecast](#fargo-health-group-forecast)
-    + [Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R](#data-wrangling--time-series-analysis--forecasting--model-selection--r)
+    + Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
 - [The Ultimate Baseball Road Trip](#the-ultimate-baseball-road-trip)
-    + [Optimization, Python (Libraries: matplotlib, numpy, json)](#optimization--python--libraries--matplotlib--numpy--json-)
+    + Optimization, Python (Libraries: matplotlib, numpy, json)
 - [Loan Classification](#loan-classification)
-    + [Classification, EDA, Data Wrangling, Feature Selection, Logistic Regressioin, R (Libraries: dplyr, ggformula, mice, HH, leaps), R Markdown](#classification--eda--data-wrangling--feature-selection--logistic-regressioin--r--libraries--dplyr--ggformula--mice--hh--leaps---r-markdown)
+    + Classification, EDA, Data Wrangling, Feature Selection, Logistic Regressioin, R (Libraries: dplyr, ggformula, mice, HH, leaps), R Markdown
 - [Star Wars Network](#star-wars-network)
-    + [Network Analysis, Network Modelling, Feature Engineering, R (Libraries: igraph, statnet, ergm, intergraph, jsonlite)](#network-analysis--network-modelling--feature-engineering--r--libraries--igraph--statnet--ergm--intergraph--jsonlite-)
+    + Network Analysis, Network Modelling, Feature Engineering, R (Libraries: igraph, statnet, ergm, intergraph, jsonlite)
 - [Helping Forum Moderators](#helping-forum-moderators)
-    + [Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)](#hierarchical-clustering--data-scraping--data-wrangling---r--libraries--tm--wordcloud-)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+    + Hierarchical clustering, Data Scraping, Data Wrangling,  R (Libraries: tm, wordcloud)
 
 ## The Development of an Algorithm to Create a Batting Lineup for a Major League Team
 ### Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
