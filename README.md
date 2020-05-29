@@ -1,5 +1,13 @@
 # David Weller
 ![](/images/headshot.jpg)
+![](/images/monday.jpg)
+![](/images/beach.jpg)
+
+Hi! My name is Dave. I graduated with a Master of Science in Data Science in May 2020. In that program, I was exposed to every aspect  of the Data Science workflow, from forming the correct question all the way to delivering findings tha can be acted on. Most projects included a final document in a format that could be delivered to key stakeholders.
+
+I enjoy playing baseball and playing the bass which gives rise to my username of BassBallFever. My favorite place to be is the ballpark, any ballpark. I will watch every level of baseball. 
+
+That big ball of fluff is Monday, a goldendoodle that was born in January 2020.
 
 ## [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](https://www.kaggle.com/bassballfever/capstone)
 ### Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
