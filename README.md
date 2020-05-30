@@ -13,7 +13,7 @@ That big ball of fluff is Monday, our goldendoodle that was born in January 2020
 Click on a project to go to its summary.
 
 - [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](#the-development-of-an-algorithm-to-create-a-batting-lineup-for-a-major-league-team)
-    + Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
+    + Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: deap, matplotlib, numpy, pandas), Tableau
 - [Fargo Health Group Forecast](#fargo-health-group-forecast)
     + Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
 - [The Ultimate Baseball Road Trip](#the-ultimate-baseball-road-trip)
@@ -28,7 +28,7 @@ Click on a project to go to its summary.
 # Project Summaries
 
 ## The Development of an Algorithm to Create a Batting Lineup for a Major League Team
-### Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: matplotlib, numpy, pandas), Tableau
+### Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: deap, matplotlib, numpy, pandas), Tableau
 
 ![](/images/capstone.png)
 
