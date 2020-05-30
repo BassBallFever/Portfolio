@@ -17,7 +17,7 @@ Click on a project to go to its summary.
 - [Fargo Health Group Forecast](#fargo-health-group-forecast)
     + Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
 - [The Ultimate Baseball Road Trip](#the-ultimate-baseball-road-trip)
-    + Optimization, Python (Libraries: matplotlib, numpy, json)
+    + Optimization, Python (Libraries: matplotlib, mpl_toolkits.basemap, numpy, json)
 - [Loan Classification](#loan-classification)
     + Classification, EDA, Data Wrangling, Feature Selection, Logistic Regressioin, R (Libraries: dplyr, ggformula, mice, HH, leaps), R Markdown
 - [Star Wars Network](#star-wars-network)
@@ -32,7 +32,7 @@ Click on a project to go to its summary.
 
 ![](/images/capstone.png)
 
-* Created a tool that maximizes the expected runs scored by setting the batting order for a starting MLB lineup.
+* Created a tool that increased the expected runs scored by 12.6 runs per season by setting the batting order for a starting MLB lineup.
 * Compared Simulated Annealing and a Genetic Algorithm and concluded that the Genetic Algorithm performed best in this situation.
 * Created a simulator to estimate the number of runs a batting lineup will score in a season using Python.
 * Optimized metaheuristics of the Genetic Algorithm to produce the best results.
@@ -54,7 +54,7 @@ Click on a project to go to its summary.
 
 
 ## The Ultimate Baseball Road Trip
-### Optimization, Python (Libraries: matplotlib, numpy, json)
+### Optimization, Python (Libraries: matplotlib, mpl_toolkits.basemap, numpy, json)
 
 ![](/images/roadtrip.png)
 
@@ -69,6 +69,7 @@ Click on a project to go to its summary.
 
 ![](/images/loan1.jpg)
 
+* Increased profit by 184%
 * Performed Exploratory Data Analysis.
 * Selected features to be used in the model.
 * Performed logistic regression on the data.
@@ -82,6 +83,7 @@ Click on a project to go to its summary.
 
 ![](/images/starwarsNetworkUnlabled.png)
 
+* Determined Obi-Wan Kenobi and C-3PO are the most central characters
 * Converted JSON file to csv format.
 * Performed Centrality Analysis.
 * Performed Community Detection.
@@ -96,6 +98,7 @@ Click on a project to go to its summary.
 
 ![](/images/closeup.png)
 
+* 90% accuracy in determining who a duplicate account belonged to
 * Scraped data from online forum.
 * Stripped meta data from the forum posts.
 * Examined corpus.
