@@ -69,7 +69,7 @@ Click on a project to go to its summary.
 
 ![](/images/loan1.jpg)
 
-* Increased profit by 184%
+* Increased profit by 184%.
 * Performed Exploratory Data Analysis.
 * Selected features to be used in the model.
 * Performed logistic regression on the data.
@@ -83,7 +83,7 @@ Click on a project to go to its summary.
 
 ![](/images/starwarsNetworkUnlabled.png)
 
-* Determined Obi-Wan Kenobi and C-3PO are the most central characters
+* Determined Obi-Wan Kenobi and C-3PO are the most central characters.
 * Converted JSON file to csv format.
 * Performed Centrality Analysis.
 * Performed Community Detection.
@@ -98,7 +98,7 @@ Click on a project to go to its summary.
 
 ![](/images/closeup.png)
 
-* 90% accuracy in determining who a duplicate account belonged to
+* 90% accuracy in determining who a duplicate account belonged to.
 * Scraped data from online forum.
 * Stripped meta data from the forum posts.
 * Examined corpus.
