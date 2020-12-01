@@ -51,7 +51,7 @@ Click on a project to go to its summary.
 * Perforemed time series analysis on the dataset.
 * Forecasted the next 12 months of calls.
 * Created two [dashboards](https://public.tableau.com/views/MNPDCalls/KPIDashboard?:language=en&:display_count=y&:origin=viz_share_link).
-* Created a narrated [PowerPoint](https://drive.google.com/file/d/1mhZ5kdBtwck5zgwnRgC-jZkwqZyhjckn/view?usp=sharing) presentation.
+* Created a narrated [PowerPoint](https://drive.google.com/file/d/1mhZ5kdBtwck5zgwnRgC-jZkwqZyhjckn/view?usp=sharing) presentation (best if downloaded and run in presentation mode).
 * [GitHub Repo](https://github.com/BassBallFever/nashville-police-calls)
 
 ## Fargo Health Group Forecast
@@ -62,7 +62,7 @@ Click on a project to go to its summary.
 * Transformed data from multiple sources into a consistent format.
 * Imputed missing values using weighted averages.
 * Forecasted the next 12 months.
-* Created a narrated [PowerPoint](https://drive.google.com/open?id=1X7uiR9VIeruS1ajpb3UKMPOQ7J9BVjvR) presentation to demonstrate findings.
+* Created a narrated [PowerPoint](https://drive.google.com/open?id=1X7uiR9VIeruS1ajpb3UKMPOQ7J9BVjvR) presentation to demonstrate findings (best if downloaded and run in presentation mode).
 * [Final Document](https://github.com/BassBallFever/fargo/blob/master/FargoHealthProposal.docx)
 * [GitHub Repo](https://github.com/BassBallFever/fargo)
 
