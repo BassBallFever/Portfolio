@@ -14,6 +14,8 @@ Click on a project to go to its summary.
 
 - [The Development of an Algorithm to Create a Batting Lineup for a Major League Team](#the-development-of-an-algorithm-to-create-a-batting-lineup-for-a-major-league-team)
     + Optimization, Simulation, Model Selection, Model Tuning, Python (libraries: deap, matplotlib, numpy, pandas), Tableau
+- [Metro Nashville Police Department Calls](#metro-nashville-police-department-calls)
+    + Exploratory Data Analysis, Time Series Analysis, Forecasting, Dashboards, Tableau, Python
 - [Fargo Health Group Forecast](#fargo-health-group-forecast)
     + Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
 - [The Ultimate Baseball Road Trip](#the-ultimate-baseball-road-trip)
@@ -39,6 +41,18 @@ Click on a project to go to its summary.
 * Used Tableau and Photoshop to produce figures.
 * [Final Document](https://drive.google.com/open?id=1HIv4SvH_bJeabgqxfFzgveN0WNlxykZS)
 * [Kaggle Notebook](https://www.kaggle.com/bassballfever/capstone)
+
+## Metro Nashville Police Department Calls
+### Exploratory Data Analysis, Time Series Analysis, Forecasting, Dashboards, Tableau, Python
+
+![](/images/KPI-Dashboard.png)
+
+* Explored dataset with more than 8 million records.
+* Perforemed time series analysis on the dataset.
+* Forecasted the next 12 months of calls.
+* Created two [dashboards](https://public.tableau.com/views/MNPDCalls/KPIDashboard?:language=en&:display_count=y&:origin=viz_share_link).
+* Created a narrated [PowerPoint](https://drive.google.com/file/d/1mhZ5kdBtwck5zgwnRgC-jZkwqZyhjckn/view?usp=sharing) presentation.
+* [GitHub Repo](https://github.com/BassBallFever/nashville-police-calls)
 
 ## Fargo Health Group Forecast
 ### Data Wrangling, Time Series Analysis, Forecasting, Model Selection, R
